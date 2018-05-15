@@ -1,2 +1,0 @@
-# braintree
-Created with CodeSandbox
